@@ -13,6 +13,7 @@ import antiobfuscate
 
 
 # settings
+# dddddd
 url_domain = 'https://www.autohome.com.cn/'
 url_series = url_domain + '%s/'
 url_spec = url_domain + 'spec/%s/'
@@ -23,7 +24,7 @@ urls = (
     'a/',       # 紧凑型车
     'b/',       # 中型车
     'c/',       # 中大型车
-    'd/',       # 大型车
+    'd/',       # 大型车fff
     'suva0/',   # 小型SUV
     'suva/',    # 紧凑型SUV
     'suvb/',    # 中型SUV
